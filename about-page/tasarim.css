@@ -1,0 +1,44 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Rene Bieder - Choplin Medium";
+}
+#main_title{
+	margin-top: 100px;
+	text-align: center;
+}
+.homepage{
+	margin: 50px;
+	text-align: center;
+}
+.ana-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uye{
+    display: flex;
+}
+.div1{
+    width: 25em;
+    padding: 20px;
+}
+.div2{
+	border-right: 1px solid black;
+}
+.buton{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.buton:hover{
+	color: white;
+	text-decoration: none;
+}
+.info{
+	width: 70em;
+	text-align: center;
+	margin: auto;
+}
